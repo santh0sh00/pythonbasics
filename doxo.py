@@ -1,0 +1,5 @@
+l=(1,2,3,2)
+index=l.index(2)
+count=l.count(2)
+print(count)
+print(index)
