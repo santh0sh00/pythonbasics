@@ -6,3 +6,5 @@ here are all the basic programs of python language that are required for underst
 4. data structures
 5. basic algorithms
 6. mathematical problems
+7. dictionaries
+8. strings and operations on strings
